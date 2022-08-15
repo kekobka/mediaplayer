@@ -1,4 +1,4 @@
-## Welcome to VK mediaplayer
+## VK mediaplayer
 
 [buy](https://vk.com/kekobka)
 
