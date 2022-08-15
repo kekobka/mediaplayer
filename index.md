@@ -1,5 +1,7 @@
 ## Welcome to VK mediaplayer
 
+[buy](https://vk.com/kekobka)
+
 commands
 
 !s ??? (поиск)
