@@ -4,6 +4,8 @@ STARFALLEX CHIP
 
 [buy](https://vk.com/kekobka)
 
+включить меню = t
+
 commands
 
 !s ??? (поиск)
