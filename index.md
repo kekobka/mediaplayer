@@ -3,7 +3,7 @@
 STARFALLEX CHIP
 
 [buy](https://vk.com/kekobka)
-
+Discord: kekobka#0195
 включить меню = t
 
 commands
@@ -24,7 +24,7 @@ commands
 * !r (рандомная музыка) (через раз ищет)
 
 contact [VK](https://vk.com/kekobka)
-
+Discord: kekobka#0195
 work ![PREVIEW](https://i.imgur.com/0dOr04e.jpg)
 
 car version ![PREVIEW](https://i.imgur.com/CatARRP.png)
